@@ -1,1 +1,1 @@
-# QHCD
+# Quantum Harris Corner Detection
